@@ -1,2 +1,2 @@
 # Terraform-Structure
-My First project in Infrastructure as Code.
+My Project in Infrastructure as Code Using Terrafor applied in Amazon Web Services.
