@@ -3,7 +3,9 @@ My Project in Infrastructure as Code Using Terraform applied in Amazon Web Servi
 
 ## Curso 
 O curso irá levá-lo a implementações de aplicações modernas utilizando a tecnologia de IAC(infrastructure as code) com Terraform aplicado </br>
-na Amazon Web Services (AWS) 
+na Amazon Web Services (AWS) </br>
+
+  - Link do curso: https://www.udemy.com/course/aws-com-terraform/
 
 ## Serviços Automatizados na AWS
 
