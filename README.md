@@ -1,5 +1,5 @@
 # Terraform-Structure
-My Project in Infrastructure as Code Using Terraform applied in Amazon Web Services.
+My First Project in Infrastructure as Code Using Terraform applied in Amazon Web Services.
 
 ## Curso 
 O curso irá levá-lo a implementações de aplicações modernas utilizando a tecnologia de IAC(infrastructure as code) com Terraform aplicado </br>
