@@ -1,4 +1,4 @@
-# Terraform-Structure
+# Terraform structure
 My First Project in Infrastructure as Code Using Terraform applied in Amazon Web Services.
 
 ## Curso 
