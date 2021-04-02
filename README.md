@@ -1,5 +1,3 @@
-![Terraform](https://github.com/LucasRejanio/terraform-structure/workflows/Terraform/badge.svg?branch=main)
-
 # Terraform structure
 My First Project in Infrastructure as Code Using Terraform applied in Amazon Web Services.
 
