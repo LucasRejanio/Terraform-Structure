@@ -1,4 +1,4 @@
-![Test library workflow status](https://github.com/tcort/markdown-link-check/workflows/Test%20library/badge.svg)
+![Terraform](https://github.com/LucasRejanio/terraform-structure/workflows/Terraform/badge.svg?branch=main)
 
 # Terraform structure
 My First Project in Infrastructure as Code Using Terraform applied in Amazon Web Services.
