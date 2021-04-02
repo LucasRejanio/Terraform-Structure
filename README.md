@@ -1,3 +1,5 @@
+<img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+
 # Terraform structure
 My First Project in Infrastructure as Code Using Terraform applied in Amazon Web Services.
 
